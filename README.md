@@ -1,17 +1,17 @@
 # PDF Generator with Headers, Footers, and Line Separators
-## This project is a Python script that generates a PDF document from a CSV file containing topics and the number of pages for each topic. Each page in the PDF includes a header, line separators, and a footer with the topic name and page number.
+###  This project is a Python script that generates a PDF document from a CSV file containing topics and the number of pages for each topic. Each page in the PDF includes a header, line separators, and a footer with the topic name and page number.
 
 ## Prerequisites
-### Python 3.x
+Python 3.x
 
-### fpdf library
+ fpdf library
 
-### pandas library
+ pandas library
 
 ## Installation
 Install Python 3.x from the official website if you haven't already.
 
-Install the required libraries using pip:
+### Install the required libraries using pip:
 ```bash
 pip install fpdf pandas
 ```
